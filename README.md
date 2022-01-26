@@ -1,2 +1,2 @@
 # division-toolbox
-A MATLAB project for dividing numbers
+A MATLAB project for dividing numbers.
